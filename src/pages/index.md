@@ -1,50 +1,46 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Good guitars for aspiring players
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Paying it forward
+subheading: Built with love and setup with care in Austin, TX
 mainpitch:
-  title: Why Kaldi
+  title: Why Kerf?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kerf guitars are built with the player's success in mind. Every note should sound
+    as accurate as possible. That may seem obvious, but many inexpensive guitars
+    lack a good setup, even a simple intonation adjustment. This means that what you
+    think you are playing is not what you are hearing and this lack of correct feedback
+    may derail your progress.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We love music and we really love guitar music. Kerf guitars are sold roughly at cost.
+  Really. We source kits and parts and laquers and paints and turn them into good guitars.
+  It's work we love, so it's not really work. Don't worry, it's not our day job. We think
+  of it as a karma project -- we build them so that you have a better experience playing
+  and you cover our costs so we can build another one for someone else.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        It actually started as a "service" I used to provide to friends and co-workers.
+        Whenever they mentioned they were thinking of getting a guitar for a friend or
+        child, I'd beg them to let me help. "Please don't go to the big box store and
+        get a starter guitar."
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Because those starter guitars are often barely playable. Even if you 
+        pay for a setup (and not many people do), no promises it was done well. So the excited,
+        aspiring guitarist gets a difficult-to-sound-good-on-guitar, no matter how hard they practice.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        I used to scour craigslist for the area and look for guitars that seemed to 
+        match what they were looking for in general and were in good repair and priced well. 
+        I'd send them several links in their price range and suggest they buy one of them.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        And then bring it directly to me. I'd clean it up, put on some new strings, do a 
+        good setup on it and make sure that it was ready to delight the new player who was about
+        to receive it. And then I decided to take it to the next level.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

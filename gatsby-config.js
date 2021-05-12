@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'kerf guitars for aspiring players',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'This is the kerf guiltars web site. Please learn about what we do and why we do it, read some fun blogs and maybe buy a nice guitar.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
