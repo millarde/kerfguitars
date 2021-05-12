@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from '../img/kerfguitars-logo.png'
+import logoText from '../img/kerf-logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -13,9 +14,9 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '10em' }}
+            src={logoText}
+            alt="kerf guitars logo"
+            style={{ width: '11em', height: '7em' }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -39,21 +40,6 @@ const Footer = class extends React.Component {
                         Products
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
@@ -74,7 +60,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <section>
+                  <img
+                    src={logo}
+                    alt="kerf guitars logo"
+                    style={{ width: '19em', height: '9em' }}
+                  />
+                </section>                
+                {/* <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
                     alt="Facebook"
@@ -102,7 +95,7 @@ const Footer = class extends React.Component {
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
