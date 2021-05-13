@@ -19,9 +19,9 @@ had the best chance of success. You don't need a great guitar but you do need on
 cheaply made and often are difficult to play due to high string action, no attention to intonation, unlevelled frets and so on. This means it hurts to
 play them -- it hurts your fingers dealing with the high action and it hurts your feelings that it sounds wrong no matter how much you practice.
 
-I get it, all the companies in the chain need to make a profit and to get that guitar to you for under $250 means making a lot of compromises. The
-problem is that this means many people give up on guitar playing. That's not cool -- more guitarists and guitar music means a better world (at least to me). So we're building decent quality guitars that have been carefully tested and setup to help you or the guitarist in your life have the best
-possible experience learning and playing guitar.
+I get it, all the companies in the starter guitar supply chain need to make a profit and to get that guitar to you for under $250 means making a lot of compromises. The
+problem is that this means many people give up on guitar playing for the wrong reasons. That's not cool -- more guitarists and guitar music means a better world (at least to us). So we're building decent quality guitars that have been carefully tested and setup to help you or the guitarist in your life have the best
+possible experience learning and playing.
 
 ### How much does a kerf guitar cost?
 
@@ -42,4 +42,4 @@ Also, we stand behind what we build. Bring it back for a tune-up or string chang
 
 Not at this time. Shipping guitars is a whole world of pain (and expense). We're expecting the few million people in the Austin, Texas area to keep
 us busy enough for now. We're likely to be willing to bring one to San Antonio or Houston or would be happy to meet you if you are travelling
-through Austin, too.
+through Austin.

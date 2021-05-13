@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/kerfguitars-logo.png'
-import logoText from '../img/kerf-logo.png'
+import logoText from '../img/kerfguitars-footer-image.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -12,13 +12,13 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
+        {/* <div className="content has-text-centered">
           <img
             src={logoText}
             alt="kerf guitars logo"
-            style={{ width: '11em', height: '7em' }}
+            style={{ width: '27em', height: '14em' }}
           />
-        </div>
+        </div> */}
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
@@ -62,9 +62,9 @@ const Footer = class extends React.Component {
               <div className="column is-4 social">
                 <section>
                   <img
-                    src={logo}
+                    src={logoText}
                     alt="kerf guitars logo"
-                    style={{ width: '19em', height: '9em' }}
+                    style={{ width: '21em', height: '7em' }}
                   />
                 </section>                
                 {/* <a title="facebook" href="https://facebook.com">
