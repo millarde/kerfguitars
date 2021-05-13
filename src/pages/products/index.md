@@ -5,39 +5,33 @@ title: Our Guitars
 image: /img/jumbotron.jpg
 heading: Good guitars for aspiring players
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The only reason we're here is to build guitars that will help you or whoever you are buying for have a great playing
+  and learning experience. (Oh, and the blog -- we love sharing things we learn. Please check it out.) We probably complete
+  a couple of guitars a month on average (you'd be surprised how long it takes, we'll talk about that in the blog, too.)
+
+  After we finish a guitar, we play it for a bit and make sure we're happy with it. We're not going to put it in your hands
+  if we don't like how it plays in ours. As we complete guitars and have them in their break-in period, we'll post them below
+  along with details about them. Use the contact form to let us know you are interested in one of them and we'll share more
+  details about its impending availability.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        The *Drag Queen*: This one is not an original *kerf* but has been given the kerf treatment. We bought it from a
+        maker on the Facebook marketplace for $300. It had good bones (Fender licensed neck and tuners, brass bridge, 
+        and a sweet Tonerider pickup) but was a bit unattractive (finish already chipping, ferrules were not in line,
+        had an odd, unnecessary pick guard and had some string/fret buzz). We took it apart, stripped and refinished
+        the body in that gorgeous pink sparkle and fixed the buzz. That finish cost about $50 (pink, pink glitter and 2k clear).
+
+        Cost is $400 with a gig bag. Available by June.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        This was our first "335" style build (from a StewMac kit). It might also be our last, as finishing these is a lot of
+        work and the kits are a bit pricier (see https://www.stewmac.com/kits-and-projects/instrument-kits/electric-guitar-kits/335-style-electric-guitar-kit.html). So if you like this style, grab it as it may be the only *kerf* like this ever made.
+        We're willing to make more (it's beautiful and sounds great) but it will definitely depend on interest as we have some 
+        lovely LP and Tele style guitars coming that are less expensive.
+
+        Cost will likely be $425 with gig bag. Available by June.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -70,4 +64,5 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
+
 ---
