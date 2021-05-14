@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Our Guitars
-image: /img/jumbotron.jpg
+image: /img/product-jumbotron.jpg
 heading: Good guitars for aspiring players
 description: >-
   The only reason we're here is to build guitars that will help you or whoever you are buying for have a great playing
@@ -17,8 +17,8 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        The *Drag Queen*: This one is not an original *kerf* but has been given the kerf treatment. We bought it from a
-        maker on the Facebook marketplace for $300. It had good bones (Fender licensed neck and tuners, brass bridge, 
+        The **Drag Queen**: This one is not an original kerf but has been given the kerf treatment. We bought it from a
+        maker on the Facebook marketplace for $300. It had good bones (Fender licensed neck and tuners, brass saddles, 
         and a sweet Tonerider pickup) but was a bit unattractive (finish already chipping, ferrules were not in line,
         had an odd, unnecessary pick guard and had some string/fret buzz). We took it apart, stripped and refinished
         the body in that gorgeous pink sparkle and fixed the buzz. That finish cost about $50 (pink, pink glitter and 2k clear).
@@ -63,6 +63,5 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-
+full_image: /img/nutwork-jumbotron.png
 ---

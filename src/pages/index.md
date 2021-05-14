@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Good guitars for aspiring players
-image: /img/home-jumbotron.jpg
+image: /img/player-jumbo1.png
 heading: Paying it forward
 subheading: Built with love and setup with care in Austin, TX
 mainpitch:
