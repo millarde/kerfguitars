@@ -71,11 +71,6 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                   </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
@@ -191,16 +186,6 @@ export const productPageQuery = graphql`
             image {
               childImageSharp {
                 fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image3 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
                   ...GatsbyImageSharpFluid
                 }
               }
