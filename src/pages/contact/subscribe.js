@@ -66,7 +66,7 @@ export default class Index extends React.Component {
                       name={'FNAME'}
                       onChange={this.handleChange}
                       id={'fname'}
-                      required={true}
+                      required={false}
                     />
                   </div>
                 </div>
@@ -81,7 +81,7 @@ export default class Index extends React.Component {
                       name={'LNAME'}
                       onChange={this.handleChange}
                       id={'lname'}
-                      required={true}
+                      required={false}
                     />
                   </div>
                 </div>                
