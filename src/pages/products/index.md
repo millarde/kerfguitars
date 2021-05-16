@@ -31,12 +31,6 @@ intro:
         We're willing to make more (it's beautiful and sounds great) but it will definitely depend on interest as we have some lovely LP and Tele style guitars coming that are less expensive.
 
         Cost will likely be $425 with gig bag. Available by June.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 main:
   heading: Hecho con amor
   description: >
