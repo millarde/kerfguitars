@@ -73,17 +73,9 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://kerfguitars.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span>Get Notified!</span>
-                {/* <span className="icon">
-                  <img src={github} alt="Github" />
-                </span> */}
-              </a>
+              <Link className="navbar-item" to="/contact/subscribe">
+                Subscribe for updates
+              </Link>
             </div>
           </div>
         </div>

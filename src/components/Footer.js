@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/kerfguitars-logo.png'
 import logoText from '../img/kerfguitars-footer-image.png'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+// import logo from '../img/kerfguitars-logo.png'
+// import facebook from '../img/social/facebook.svg'
+// import instagram from '../img/social/instagram.svg'
+// import twitter from '../img/social/twitter.svg'
+// import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
