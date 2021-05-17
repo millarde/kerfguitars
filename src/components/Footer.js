@@ -56,6 +56,16 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="http://eepurl.com/hyCJqP"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <span>Unsubscribe</span>
+                      </a>                                              
+                    </li>
                   </ul>
                 </section>
               </div>

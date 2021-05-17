@@ -73,9 +73,14 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/contact/subscribe">
-                Subscribe for updates
-              </Link>
+              <a
+                className="navbar-item"
+                href="http://eepurl.com/hyCJqP"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span>Subscribe for updates!</span>
+              </a>
             </div>
           </div>
         </div>
