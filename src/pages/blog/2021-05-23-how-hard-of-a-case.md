@@ -60,6 +60,8 @@ The padded backstraps are adjustable and removable:
 
 ![backstraps on guitar case](/img/hardcase-prg-backstraps)
 
+While it's a relatively small thing, the ChromaCast case is about 4 pounds heavier. That's not likely a big thing if you are moving it from the car to the house and back. If you have multiple guitars with cases, the ChromaCast is a bit thinner, making it easier to fit more guitars into the same space.
+
 ## Wrap up
 
 There were two things about the ChromaCast that bothered us a little. One is that we didn't seem smart enough to use the keys to lock the case. We put the key in and turned it, felt *something* happen, but the latch still opened. Not a feature we particularly care about, but things offered should work. The other item seems like a small manufacturing defect that hopefully is only on our case (the Amazon pictures don't show this part of the case, so we couldn't see if it was a standard feature -- we hope not). As you can see in the picture below, the bottom of the case has a "foot" on only one side of the case. Seems like there should be a foot on the other side of the case. This causes it to list just a bit to one side.
