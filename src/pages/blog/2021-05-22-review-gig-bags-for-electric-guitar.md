@@ -4,7 +4,7 @@ title: "Review: Gig bags for electric guitar"
 date: 2021-05-22T21:44:27.157Z
 description: A look at two inexpensive electric guitar soft cases (or gig bags),
   the Cahaya Premium and Donner purchased from Amazon.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/softcase-fronts
 tags:
   - review
