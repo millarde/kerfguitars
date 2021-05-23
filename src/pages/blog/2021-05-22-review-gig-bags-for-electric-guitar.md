@@ -39,6 +39,8 @@ Contrast that with the design of the Cahaya Premium bag. The zipper open enough 
 
 ![](/img/softcase-cahaya-neck-strap)
 
+Depending on where you travel with your guitar, the reflective strips on the Cahaya case may provide *you* a small amount of safety.
+
 ## Convenience Features
 
 Both cases have padded handles and adjustable backpack straps. Both have at least one storage pocket. The Cahaya Premium has several pockets (visible in pictures above): two near the body of the guitar (a larger inside one (which has two other slim pockets) with an outer sleeve pocket and two pockets near the headstock -- suitable for a guitar strap, for example.
