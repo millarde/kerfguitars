@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Hello and Welcome
 date: 2021-05-16T15:56:27.851Z
 description: Every blog deserves an obligatory first post.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/nutwork-jumbotron.png
 tags:
   - intro
