@@ -2,14 +2,14 @@
 templateKey: blog-post
 title: A Tale of Two Teles
 date: 2021-05-23T17:33:16.758Z
-description: At least on the Amateur Luthier group on Facebook, there's a ready
-  source of StewMac hate. It's common for any reference to StewMac to include
-  unkind comments that are rarely backed up with pertinent personal experience.
-  One area where this happens is guitar kits. The comments are generally 'get a
-  cheaper kit on eBay or Amazon, it will cost you less and be just as good'.
-  While we don't share the StewMac hate, challenge accepted. We'll walk through
-  the whole building process and compare the finished products in a series of
-  posts.
+description: At least on one amateur guitar building group on Facebook, there's
+  a ready source of StewMac hate. It's common for any reference to StewMac to
+  include unkind comments that are only occasionally backed up with pertinent
+  personal experience. One area where this happens is guitar kits. The comments
+  are generally 'get a cheaper kit on eBay or Amazon, it will cost you less and
+  be just as good'. While we don't share the StewMac hate, challenge accepted.
+  We'll walk through the whole building process of T-style kits from StewMac and
+  BexGears and compare the finished products in a series of posts.
 featuredpost: true
 featuredimage: /img/telecomp-woods.png
 ---
