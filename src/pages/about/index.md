@@ -40,6 +40,7 @@ Also, we stand behind what we build. Bring it back for a tune-up or string chang
 
 ### Do you ship?
 
-Not at this time. Shipping guitars is a whole world of pain (and expense). We're expecting the few million people in the Austin, Texas area to keep
-us busy enough for now. We're likely to be willing to bring one to San Antonio or Houston or would be happy to meet you if you are travelling
-through Austin.
+Yes, but, shipping is expensive, particularly at our low volume. We will only ship in a premium case (see blog), which costs almost $100 (it _is_ a nice case) and depending on
+where you want it shipped, you need to cover that cost (figure at least another $50).
+
+We're in Austin, Texas, so if you are in the surrounding area, even as far as Houston, it's like far less expensive to either meet or I can drop off next time I'm out your way.

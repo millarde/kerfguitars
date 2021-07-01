@@ -23,14 +23,14 @@ intro:
         had an odd, unnecessary pick guard and had some string/fret buzz). We took it apart, stripped and refinished
         the body in that gorgeous pink sparkle and fixed the buzz. That finish cost about $50 (pink, pink glitter and 2k clear).
 
-        Cost is $400 with a gig bag. Available by June.
+        Price is $400 with premium gig bag (see blog). Availalbe now -- use Contact Form to request more details.
     - image: /img/kerf-335.png
       text: >
         This was our first "335" style build. It might also be our last, as finishing these is a lot of
         work and the kits are a bit pricier (see https://www.stewmac.com/kits-and-projects/instrument-kits/electric-guitar-kits/335-style-electric-guitar-kit.html). So if you like this style, grab it, as it may be the only kerf like this ever made.
         We're willing to make more (it's beautiful and sounds great) but it will definitely depend on interest as we have some lovely LP and Tele style guitars coming that are less expensive.
 
-        Cost will likely be $425 with gig bag. Available by June.
+        Price is $400 (no bag/case currently availalbe, so no shipping). Availalbe now -- use Contact Form to request more details.
 main:
   heading: Hecho con amor
   description: >
