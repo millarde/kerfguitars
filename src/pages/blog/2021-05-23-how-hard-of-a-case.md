@@ -7,7 +7,7 @@ description: Hard shell guitar cases provide some of the best protection. At the
   that blend some of the convenience features of a gig bag with the protection
   of harder case. We'll take a look at two comparably priced but very different
   cases we found on Amazon.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hardcase-closed-on-floor.png
 ---
 
